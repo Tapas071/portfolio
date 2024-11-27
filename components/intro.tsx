@@ -65,13 +65,11 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Hello, I'm Tapas Mondal.</span> I'm a{" "}
-        <span className="font-bold">final-year B.E/B.Tech</span> student at{" "}
-        <span className="font-bold"> Jadavpur University. </span>I'm a aspring{" "}
-        <span className="font-bold">Software Developer</span> looking an
-        opportunity to work. I'm addicted to get dopamine hit after solving
+        <span >Software Developer at <span className="font-bold"> Artelus </span> with one year of experience. </span> I have completed my B-Tech from
+        <span className="font-bold"> Jadavpur University on 2024. </span>I'm addicted to get dopamine hit after solving
         complex algorithmic problem using DSA. I enjoy building{" "}
-        <span className="italic">sites</span>. My focus is{" "}
-        <span className="underline">React (Next.js)</span>.
+        <span className="italic">sites</span> focusing mainly
+        <span className="underline">Next.js</span>.
       </motion.h1>
 
       <motion.div
@@ -93,7 +91,7 @@ export default function Intro() {
           Contact me here{" "}
           <BsArrowRight className="opacity-70 group-hover:translate-x-1 transition" />
         </Link>
-
+{/* 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
           href="/Tapas_Mondal_CV.pdf"
@@ -101,7 +99,7 @@ export default function Intro() {
         >
           Download CV{" "}
           <HiDownload className="opacity-60 group-hover:translate-y-1 transition" />
-        </a>
+        </a> */}
 
         <a
           className="bg-white p-4 text-gray-700 hover:text-gray-950 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"

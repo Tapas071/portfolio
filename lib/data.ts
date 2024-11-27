@@ -36,6 +36,14 @@ export const links = [
 ] as const;
 
 export const experiencesData = [
+    {
+    title: "Fullstack Developer at Artelus",
+    location: "Kolkata, India",
+    description:
+      "I am currently working as a fullstack developer at Artelus which is a AI healthcare startup. I am responsible for maintain and building robust application where data of the patients resides and flows through multiple channels and building UI of the application.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2024 - Present",
+  },
   {
     title: "Software Developer Intern at SalesUp",
     location: "Kolkata, India",
@@ -44,22 +52,6 @@ export const experiencesData = [
     icon: React.createElement(LuGraduationCap),
     date: "1st June 2023 - 31st June 2023",
   },
-  // {
-  //   title: "Front-End Developer",
-  //   location: "Orlando, FL",
-  //   description:
-  //     "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
-  //   icon: React.createElement(CgWorkAlt),
-  //   date: "2019 - 2021",
-  // },
-  // {
-  //   title: "Full-Stack Developer",
-  //   location: "Houston, TX",
-  //   description:
-  //     "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
-  //   icon: React.createElement(FaReact),
-  //   date: "2021 - present",
-  // },
 ] as const;
 
 export const projectsData = [

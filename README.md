@@ -17,3 +17,5 @@ Welcome to my portfolio! This project showcases my skills as a web developer and
 - **Fresh, Modern UI Design**: Aesthetic design aligned with modern trends.
 - **Light & Dark Mode**: User-friendly theme toggling for enhanced accessibility.
 - **Fully Responsive**: Optimized for all screen sizes, from mobile to desktop.
+
+ -- notion link : https://www.notion.so/Personal-Portfolio-10d0ffd3f6e08080a2ffe5d1d0f92a9b
