@@ -1,30 +1,19 @@
-[![Watch tutorial here](https://img.youtube.com/vi/sUKptmUVIBM/0.jpg)](https://youtu.be/sUKptmUVIBM)
+# Tapas Mondal's Portfolio
 
-# [Watch video here](https://youtu.be/sUKptmUVIBM)
+Welcome to my portfolio! This project showcases my skills as a web developer and my passion for creating stunning, responsive, and highly interactive websites.
 
-## What you will learn
+## 🚀 Features
 
-- Latest Next.js 13 features
-- Next.js App Router
-- Next.js Server Actions
-- Client & Server Components
-- TypeScript (Beginner & Intermediate)
-- Tailwind CSS
-- Context API
-- Advanced Animations with Framer Motion
-- React.Email & Resend
-- Custom React hooks
-- Fresh, modern UI design
-- Light & Dark mode
-- Responsive website
-
-## Important
-
-If you want to be a professional developer, you have to know the fundamentals like JavaScript and CSS really well. I highly recommend you go through my [Professional JavaScript](https://bytegrad.com/courses/professional-javascript) and [Professional CSS](https://bytegrad.com/courses/professional-css) courses.
-
-I'm close to releasing a complete React & Next.js course. Get on the email list to receive early-bird pricing: [link](https://email.bytegrad.com/).
-
-## Setup
-
-1. Add RESEND_API_KEY environment variable in .env.local
-2. In the send-email.ts action file, change the "to" email to your own email
+- **Latest Next.js 13 Features**: Leveraging cutting-edge capabilities for an optimized development experience.
+- **Next.js App Router**: Simplified and efficient routing for a modern project structure.
+- **Next.js Server Actions**: Enhanced server-side functionality with reduced client-side overhead.
+- **Client & Server Components**: Seamless integration of server-side rendering and client interactivity.
+- **TypeScript**: Combining beginner and intermediate knowledge to build a robust type-safe application.
+- **Tailwind CSS**: Utility-first styling for rapid and consistent design.
+- **Context API**: Efficient state management for a seamless user experience.
+- **Advanced Animations with Framer Motion**: Elevating interactivity with smooth, visually appealing animations.
+- **React.Email & Resend**: Integrating email functionality directly into the app.
+- **Custom React Hooks**: Simplifying logic and promoting code reusability.
+- **Fresh, Modern UI Design**: Aesthetic design aligned with modern trends.
+- **Light & Dark Mode**: User-friendly theme toggling for enhanced accessibility.
+- **Fully Responsive**: Optimized for all screen sizes, from mobile to desktop.
